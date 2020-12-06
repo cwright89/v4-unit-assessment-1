@@ -1,0 +1,164 @@
+.Header {
+    height: 10vh;
+    width: 100vw;
+    background-color: rgb(167, 231, 167);
+}
+.Title{
+    text-align: left;
+    float: left;
+    padding-top: 1px;
+    padding-left:8px
+}
+.Rectangles{
+    margin-top:10px;
+}
+.section-1{
+    border:dotted;
+    height: 35vh;
+
+}
+.rectangle-1{
+    width: 200px;
+    height: 100px;
+    border: solid;
+    background-color: rgb(175, 17, 180);
+    border-color: red;
+    margin-top:120px;
+    margin-left:10px;
+
+
+}
+.rectangle-2{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    box-shadow: 10px 10px 8px #474747;
+    border:thin;
+    margin-left: 250px;
+    margin-top:-104px;
+
+}
+.rectangle-3{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(255, 0, 85);
+    border:thin;
+    margin-left: 400px;
+    margin-top:-200px;
+
+
+}
+.section-2{
+    border:dotted;
+    height: 50vh;
+}
+
+.circle-1{
+    background-color:#fff;
+    border:1px solid rgb(2, 2, 2);    
+    height:80px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:80px;
+    margin-left: 30px;
+    margin-top: 20px;
+
+}
+.snowmanface{
+    height:25px;
+    width: 25px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.circle-2{
+    background-color:#fff;
+    border:1px solid rgb(2, 2, 2);    
+    height:100px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:100px;
+    margin-left: 21px;
+    margin-top: 1px;
+
+}
+.snowmanbuttons{
+    height:25px;
+    width: 25px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.circle-3{
+    background-color:#fff;
+    border:1px solid rgb(2, 2, 2);    
+    height:120px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:120px;
+    margin-left: 18px;
+    margin-top: 1px;
+}
+
+.section-3{
+
+    border:dotted;
+    height: 35vh;
+}
+
+.box{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(233, 252, 152);
+    border: solid;
+    border: black;
+    margin-left: 5px;
+    margin-top: 5px;
+
+   
+}
+.circle-4{
+    background-color:green;
+    border:1px solid rgb(2, 2, 2);    
+    height:150px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:150px;
+   
+}
+.square{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(248, 66, 105);
+    border: solid;
+    border: black;
+    margin-left: 20px;
+    margin-top: 20px;
+   
+
+}
+.fishtank{
+    color: white;
+    padding-top: 80px;
+    text-align: center;
+}
+.circle-5{
+    background-color:blue;
+    border:1px solid rgb(2, 2, 2);    
+    height:80px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:80px;
+    margin-top: -100px;
+
+}
+.fish{
+    margin-top: 20px;
+    height: 20px;
+    margin-left: 20px;
+    display: ;
+    clear: ;
+}

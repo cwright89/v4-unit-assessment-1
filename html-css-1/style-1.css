@@ -1,0 +1,62 @@
+.header-1 {
+    height: 20vh;
+    width: 100%;
+    border: border-box;
+    background-color:#ff8080;
+    margin: 0px;
+    padding: 0px;
+}
+.greeting {
+    padding-top: 25px;
+    float: left;
+}
+
+.Nav {
+    float: center;
+    text-align: right;
+    padding-bottom:30%;
+    word-spacing: 30px;
+    padding-left:25%;
+    padding-top: 5.5%;
+    padding-right:20%;
+
+
+}
+.section-1{
+    border: dotted;
+    border-color: black;
+    margin-top:1%;
+    box-sizing: 20%;
+    
+}
+.image1{
+    height: 80px;
+    float: left;
+
+}
+.firstparagraph {
+    padding: 60%;
+    text-emphasis: wrap;
+    text-align: left;
+    font-size:medium;
+}
+
+.section-2 {
+    border: dotted;
+    border-color: black;
+    margin-top:1%;
+    padding:3%;
+}
+.image2{
+    height: 80px;
+    padding-left: 90%;
+    position: absolute;
+    right: 6%;
+    bottom: 25%;
+
+}
+.second-paragraph{
+    text-emphasis: wrap;
+    text-align: left;
+    text-emphasis: wrap;
+}

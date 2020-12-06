@@ -10,6 +10,7 @@
 */
 
 //CODE HERE
+let gitDefinition = "Git tracks and saves the code you are working on and helps with collaboration"
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -18,7 +19,7 @@
 */
 
 //CODE HERE
-
+let gitHubDefinition = "GitHub is a site that stores versions of the code you are working on and allows collaborators to access and work on the code"
 //////////////////PROBLEMS 3 - 9////////////////////
 /*
     For the next several problems you will be creating objects containing information about different git 
@@ -34,6 +35,10 @@
 */
 
 //CODE HERE
+let init ={
+    description: "git init starts a new repository",
+    code: "git init"
+}
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -42,6 +47,10 @@
 */
 
 //CODE HERE
+let clone ={
+    description:"git cloning copies a repository and allows you to add the repository to your computer",
+    code: 'git clone'
+}
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -50,6 +59,10 @@
 */
 
 //CODE HERE
+let status={
+    description: "this command lists all the files that need to be commited",
+    code:"git status"
+}
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -58,6 +71,10 @@
 */
 
 //CODE HERE
+let add={
+    description: "adds files to the staging area to be commited",
+    code: "git add ."
+}
 
 //////////////////PROBLEM 7////////////////////
 /*
@@ -66,6 +83,10 @@
 */
 
 //CODE HERE
+let commit={
+    description:"records a snapshot of the file in the history",
+    code:"git commit -m"
+}
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -74,6 +95,10 @@
 */
 
 //CODE HERE
+let addRemote={
+    description:"connects your reposiroty to a remote server",
+    code:"git remote add origin"
+}
 
 //////////////////PROBLEM 9////////////////////
 /*
@@ -82,3 +107,7 @@
 */
 
 //CODE HERE
+let push={
+    description:"pushes the files into the Github repository",
+    code:"git push"
+}
